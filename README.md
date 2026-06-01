@@ -210,8 +210,6 @@ class AbiKrisshnnan:
 
 ---
 
-## 🐍 My Contributions Get Eaten
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abikichu1020/abikichu1020/output/github-snake-dark.svg"/>
@@ -220,9 +218,6 @@ class AbiKrisshnnan:
   </picture>
 </div>
 
-> ⚠️ **To activate the snake:** Add the GitHub Action below in `.github/workflows/snake.yml` inside your profile repo.
-
----
 
 ## 🎓 Education
 
@@ -234,38 +229,6 @@ class AbiKrisshnnan:
 
 ---
 
-## ⚙️ Setup: Snake Animation (Required GitHub Action)
-
-Create `.github/workflows/snake.yml` in your profile repo with this:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Open%20for%20AI%20Roles%20%26%20Collabs%20%7C%20abikrisshnnan2005%40gmail.com&fontSize=14&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
