@@ -197,28 +197,6 @@ ML-powered fake news classifier with NLP feature extraction and classification m
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abikichu1020&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abikichu1020&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=abikichu1020&theme=tokyonight&hide_border=true" width="60%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abikichu1020&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
 
 ---
 
