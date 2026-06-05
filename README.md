@@ -3,9 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&lines=🤖+Building+Autonomous+Multi-Agent+AI+Systems;🧠+MCP+%7C+Agentic+Frameworks+%7C+Digital+Twins;🏆+IIT+Delhi+Hackathon+Winner+%7C+3x+Champion;🔥+AI+Engineer+from+Tamil+Nadu%2C+India" alt="Typing SVG" />
-  </a>
+  
 </div>
 
 <br/>
